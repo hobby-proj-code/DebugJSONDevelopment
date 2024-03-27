@@ -1,0 +1,3 @@
+[submodule "DebugJSON"]
+	path = DebugJSON
+	url = https://github.com/hobby-proj-code/DebugJSON
